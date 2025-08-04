@@ -27,13 +27,12 @@ turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in l
     5. Transparent Communication
     6. Foster a Sense of Community
 
+## Skills
+ Data Analysis, Data Storytelling, Statistical Analysis, Talent Management, Employee Engagement, Excel (Pivot Tables), SPSS, AI Tools
+
 
 ## **Project Deliverables**
 
 * **[Full Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
 * **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
 
-
-
-## Skills
- Data Analysis, Data Storytelling, Statistical Analysis, Talent Management, Employee Engagement, Excel (Pivot Tables), SPSS, AI Tools
