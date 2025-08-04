@@ -10,15 +10,13 @@ appraisal rating 1) category (83.4%)
 2) The mean values suggest that among all three categories of employees, Top Performers have the
 highest turnover ratings (3.48)
 3) Among these Top Performers, following insights were gained: -
-a) In terms of Ethnicity, Blacks are in minority (5.1%) yet their mean values indicate that
+1) In terms of Ethnicity, Blacks are in minority (5.1%) yet their mean values indicate that
 they have the highest job satisfaction (3.05), immediate supervisor (2.24), trust in leadership (2.58)
 ratings and the lowest turnover ratings (3.37)
-b) In terms of Gender, employees who identify themselves as Others are in minority
+2) In terms of Gender, employees who identify themselves as Others are in minority
 (4.0%). Interestingly, their mean values imply they have the highest job satisfaction levels (2.70)
-turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in leadership ratings
-(2.41)
-c) In terms of Age, Millennials are in majority (94.7%) and Generation Z are in minority
-(1.3%)
+turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in leadership ratings (2.41)
+3) In terms of Age, Millennials are in majority (94.7%) and Generation Z are in minority (1.3%)
 
 ## Actionable Recommendations
     1. Harness the power of AI
