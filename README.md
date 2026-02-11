@@ -25,8 +25,3 @@ Following Meta’s "Year of Efficiency" and subsequent layoffs, VP of HR Janelle
 | 📈 **[Leadership Presentation (PDF)](Meta%20Case%20Study%20Presentation.pdf)** | The high-impact deck presented to Meta HR Leadership. |
 
 ---
-
-### **🚀 Why this fits People Analytics roles**
-* **Business Acumen:** Shows a deep understanding of the "Year of Efficiency" context and the ability to speak the language of HR Executives.
-* **Technical Rigor:** Validates proficiency in industry-standard tools (**SPSS/Excel**) for complex workforce datasets.
-* **Executive Presence:** Proves the ability to communicate data-driven insights to non-technical stakeholders effectively.
