@@ -1,16 +1,32 @@
-# **Meta Case Study: Transforming Year of Efficiency into Year of Engagement**
+# 📊 Meta Case Study: From Efficiency to Engagement
+**Strategic People Analytics: Solving Top Talent Retention Post-2023 Restructuring**
 
-## **Project Summary**
+### **🎯 The Challenge**
+Following Meta’s "Year of Efficiency" and subsequent layoffs, VP of HR Janelle Gale faced a critical risk: **top talent attrition**. I was tasked with identifying the drivers of engagement across functions and developing a data-backed roadmap to retain high-performers during organizational shifts.
 
-- Conducted Descriptive Analysis using Advanced Excel and SPSS to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding Top Talent Identification and Retention post 2023 layoffs
-- Delivered and presented actionable recommendations to Janelle for top talent identification, retention and enhance employee engagement rate across funcitons  
+### **🛠️ Technical Methodology**
+* **Statistical Analysis:** Processed workforce data using **SPSS** and **Advanced Excel** to identify statistically significant correlations between role function and turnover risk.
+* **Segmentation & Modeling:** Utilized **Pivot Tables** and cross-tabulation to isolate "at-risk" high-performers within specific departments.
+* **Data Storytelling:** Translated complex statistical outputs into a high-level executive narrative focused on ROI and strategic retention.
 
-## Skills
- Data Analysis, Data Storytelling, Statistical Analysis, Talent Management, Employee Engagement, Excel (Pivot Tables), SPSS, AI Tools
+---
 
+### **💡 Strategic Insights & Impact**
+* **Retention Modeling:** Developed a framework for identifying "Flight Risk" indicators based on historical engagement scores.
+* **Actionable Recommendations:** Presented a 3-tier strategy to the VP of HR, focusing on lateral mobility and personalized engagement initiatives.
+* **Leadership Influence:** Delivered a professional briefing deck designed for C-suite decision-making, emphasizing human-centric data interpretation.
 
-## **Project Deliverables**
+---
 
-* **[Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
-* **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
+### **📂 Project Deliverables**
+| **Asset** | **Description** |
+| :--- | :--- |
+| 📄 **[Executive Case Study (PDF)](Meta%20Case%20Study%20Analysis.pdf)** | Full statistical breakdown, SPSS outputs, and methodology. |
+| 📈 **[Leadership Presentation (PDF)](Meta%20Case%20Study%20Presentation.pdf)** | The high-impact deck presented to Meta HR Leadership. |
 
+---
+
+### **🚀 Why this fits People Analytics roles**
+* **Business Acumen:** Shows a deep understanding of the "Year of Efficiency" context and the ability to speak the language of HR Executives.
+* **Technical Rigor:** Validates proficiency in industry-standard tools (**SPSS/Excel**) for complex workforce datasets.
+* **Executive Presence:** Proves the ability to communicate data-driven insights to non-technical stakeholders effectively.
